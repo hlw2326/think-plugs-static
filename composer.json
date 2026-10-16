@@ -24,7 +24,10 @@
         "stc/public/static/login.js": "!public/static/login.js"
       },
       "init": {
-        "stc/.env.example": ".env.example",
+        "stc/.env": [
+          ".env.dev",
+          ".env.prod"
+        ],
         "stc/class/Index.php": "app/index/controller/Index.php",
         "stc/config/app.php": "config/app.php",
         "stc/config/cache.php": "config/cache.php",
