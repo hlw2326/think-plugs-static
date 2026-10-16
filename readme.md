@@ -24,10 +24,4 @@
 
 该插件会随 HlwAdmin 版本维护后台所需静态资源和初始化模板。
 
-### 版权说明
-
-**ThinkPlugsStatic** 遵循 **MIT** 开源协议发布，并免费提供使用。
-
-本项目包含的第三方源码和二进制文件的版权信息将另行标注，请在对应文件查看。
-
-版权所有 Copyright © 2014-2026 by HlwAdmin All rights reserved。
+> 备注：本项目基于 ThinkAdmin 进行魔改。
