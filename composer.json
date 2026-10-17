@@ -24,7 +24,7 @@
         "stc/public/static/login.js": "!public/static/login.js"
       },
       "init": {
-        "stc/.env": [
+        "stc/.env.example": [
           ".env.dev",
           ".env.prod"
         ],
